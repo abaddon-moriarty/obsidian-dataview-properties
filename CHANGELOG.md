@@ -1,3 +1,8 @@
+## 1.0.4 (2026-09-29)
+### Bug Fixes
+
+* Stabilize property synchronization when prefixes are disabled.
+
 ## [1.0.2](https://github.com/Mara-Li/obsidian-dataview-properties/compare/1.0.1...1.0.2) (2026-07-09)
 ### Bug Fixes
 
