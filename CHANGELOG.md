@@ -1,3 +1,8 @@
+## 1.0.3 (2026-09-29)
+### Features
+
+* Add an option to enable or disable property prefixes.
+
 ## [1.0.2](https://github.com/Mara-Li/obsidian-dataview-properties/compare/1.0.1...1.0.2) (2026-07-09)
 ### Bug Fixes
 
